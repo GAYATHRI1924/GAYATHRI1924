@@ -82,12 +82,7 @@ I am a web developer with a vast array of knowledge in many different front end 
 
   
 
-<br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
 
 
 <br />
